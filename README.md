@@ -38,3 +38,5 @@ viewport content 参数：
 - minimum-scale 最小缩放比例
 
 - user-scalable 是否允许用户缩放(yes/no)
+
+移动端开发的基础知识 参考 这里(http://am-team.github.io/amg/dev-exp-doc.html)
