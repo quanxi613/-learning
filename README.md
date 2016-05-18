@@ -39,4 +39,4 @@ viewport content 参数：
 
 - user-scalable 是否允许用户缩放(yes/no)
 
-移动端开发的基础知识 参考 这里(http://am-team.github.io/amg/dev-exp-doc.html)
+移动端开发的基础知识 参考 支付宝移动Web解决方案(http://am-team.github.io/amg/dev-exp-doc.html)
